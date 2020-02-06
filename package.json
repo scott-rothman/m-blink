@@ -1,19 +1,19 @@
 {
-  "name": "m-marquee",
-  "version": "1.0.3",
-  "description": "A custom HTML element to replace the now obsolete marquee tag",
+  "name": "m-blink",
+  "version": "1.0.0",
+  "description": "A custom HTML element to replace the now obsolete blink tag",
   "main": "m-marquee.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scott-rothman/m-marquee.git"
+    "url": "git+https://github.com/scott-rothman/m-blink.git"
   },
   "author": "Scott Rothman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/scott-rothman/m-marquee/issues"
+    "url": "https://github.com/scott-rothman/m-blink/issues"
   },
-  "homepage": "https://github.com/scott-rothman/m-marquee#readme"
+  "homepage": "https://github.com/scott-rothman/m-blink#readme"
 }
