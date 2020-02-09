@@ -1,6 +1,6 @@
 {
   "name": "m-blink",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom HTML element to replace the now obsolete blink tag",
   "main": "m-marquee.js",
   "scripts": {
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/scott-rothman/m-blink/issues"
   },
+  "keywords": "blink, custom element, obsolete tag",
   "homepage": "https://github.com/scott-rothman/m-blink#readme"
 }
